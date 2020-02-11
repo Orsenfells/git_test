@@ -1,0 +1,1 @@
+This is *REDACTED* first git project
